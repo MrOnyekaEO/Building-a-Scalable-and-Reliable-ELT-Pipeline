@@ -1,17 +1,23 @@
 # Building-a-Scalable-and-Reliable-ELT-Pipeline
 
 ---
-Functional ELT pipeline using dbt, Snowflake, and Apache Airflow.
+## Functional ELT pipeline using dbt, Snowflake, and Apache Airflow.
 ---
 
-Project Overview
-Objective: To create a robust and scalable data pipeline using dbt, Snowflake, and Apache Airflow to extract, load, and transform (ELT) data for analysis and reporting.
+![ELT pipeline](https://github.com/user-attachments/assets/3f84ee4e-aab9-4793-bcd5-5ef51def7eef)
+
 ---
-**Tools and Technologies:**
+## Project Overview
+### **Objective**: To create a robust and scalable data pipeline using dbt, Snowflake, and Apache Airflow to extract, load, and transform (ELT) data for analysis and reporting.
+---
+### **Tools and Technologies:**
 
 **dbt**: A data transformation tool for building and managing data pipelines.
+
 **Snowflake**: A cloud-based data warehouse.
+
 **Apache Airflow**: A workflow orchestration platform.
+
 ---
 **Project Structure**
 
@@ -30,5 +36,4 @@ Step-by-Step Guide
 
 4. Run the Pipeline:
 
-Execute the Airflow DAG to trigger the ELT process.
-Monitor the pipeline's progress and troubleshoot any issues.
+Code: https://bittersweet-mall-f00.notion.site/Code-along-build-an-ELT-Pipeline-in-1-Hour-dbt-Snowflake-Airflow-cffab118a21b40b8acd3d595a4db7c15
